@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/yunware/oc-mux-demux/issues"
   },
-  "homepage": "https://github.com/yunware/oc-mux-demux"
+  "homepage": "https://github.com/yunware/oc-mux-demux",
+  "dependencies": {
+    "through2": "^0.6.3"
+  }
 }
