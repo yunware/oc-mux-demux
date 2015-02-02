@@ -1,6 +1,6 @@
 {
   "name": "oc-mux-demux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Multiplexing-demultiplexing of several object streams inside single object",
   "main": "index.js",
   "scripts": {
